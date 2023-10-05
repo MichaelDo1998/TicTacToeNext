@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from "react";
-import "././css/App.css";
+import "././css/tictactoe.css";
 
 interface SquareProps {
   value: any;
